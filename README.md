@@ -8,3 +8,4 @@ Requires python 3.
 both arguments can be left empty.  
 `-b` or `--branch` sets the branch to which the spam commits will be pushed to  
 `-c` or `--commits` sets the commit count
+`-d` or `--dir` sets the working directory (so you can now spam other repositories)
